@@ -6,8 +6,6 @@
 
 ## Technology used
 
-### Technology used
-
 **User Page**
 [https://github.com/watataku8911/watataku-portfolio](https://github.com/watataku8911/watataku-portfolio)
 
