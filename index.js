@@ -57,7 +57,7 @@ app.put("/api", (req, res) => {
   } else {
     const params = {
       status:
-        "以下のものを作成しました。\n" +
+        "以下のものを編集しました。\n" +
         "詳しくは下記サイトへ。\n" +
         "https://watataku-portfolio.web.app/works/detail/" +
         detail_id +
